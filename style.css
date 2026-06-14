@@ -5,14 +5,14 @@
     text-align: center;
 }
 .sbronx{
-    width: 500px;
-    height: 300px;
+    width: 28vw;
+    height: 32vh;
 }
 .caption{
     vertical-align: top;
     display: inline-block;
-    width: 500px;
-    height: 300px;
+    width: 28vw;
+    height: 32vh;
     background-color: black;
     color: goldenrod;
 }
@@ -20,7 +20,7 @@
 .caption p{
     text-align: justify;
     padding: 2px 8px;
-    font-size: 17px;
+    font-size: 1rem;
 }
 .mainimage{
     text-align: center;
@@ -28,27 +28,20 @@
 }
 .bboys{
     margin-top: 20px;
-    height: 320px;
-    width: 650px;
+    height: 44vh;
+    width: 38vw;
 }
 .btn{
     text-align: center;
     /* background-color: goldenrod; */
 }
 .learn{
-    margin-top: 16
-    px;
-    width: 350px;
+    margin-top: 16px;
+    width: 380px;
     height: 50px;
     background-color: mediumaquamarine;
     text-align: center;
     display: inline-block;
     text-decoration: none;
     padding: 0 24px;
-}
-#more{
-    color: white;
-    display: inline-block;
-    margin-top: 16px;
-    /* padding: 0 24x; */
 }
