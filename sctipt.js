@@ -1,0 +1,1 @@
+document.querySelector('.heading').style.textTransform = 'capitalize'
